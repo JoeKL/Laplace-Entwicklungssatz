@@ -12,8 +12,7 @@
 
 
 Mein Rechner:\
-  Systemmodell: Dell XPS15 9560\
+  Systemmodell: Dell XPS 15 9560\
   OS: Windows 10 Home 64-Bit-Version (10.0, Build 17763)\
   CPU: Intel Core i5 7300HQ @ 2.50GHz (4 CPUs)\
-  Speicher: 8192MB RAM\
-  
+  Speicher: 8192MB RAM
