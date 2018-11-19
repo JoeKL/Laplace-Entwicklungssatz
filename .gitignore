@@ -1,0 +1,18 @@
+
+.vs/LaPlace Entwicklungssatz/v15/.suo
+*.db
+*.opendb
+*.ipch
+*.exe
+*.ilk
+*.pdb
+*.tlog
+*.sln
+*.log
+*.filters
+*.user
+*.vcxproj
+*.pch
+*.enc
+*.obj
+*.idb
