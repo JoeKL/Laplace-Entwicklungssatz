@@ -4,10 +4,10 @@
   
 | dim | func        | reps            | time    |
 |-----|-------------|-----------------|---------|
-| 3x3 |       Sarus | 1.000.000 execs |    40ms |
-| 3x3 |     Laplace | 1.000.000 execs |    66ms |
-| 4x4 |     Laplace | 1.000.000 execs |  1843ms |
-| 4x4 |     Laplace |   100.000 execs |  1169ms |
+| 3x3 |     Laplace | 1.000.000 execs |    37ms |
+| 4x4 |     Laplace | 1.000.000 execs |  1317ms |
+| 5x5 |     Laplace |   100.000 execs |   831ms |
+| 6x6 |     Laplace |    10.000 execs |   521ms |
 
 
 
