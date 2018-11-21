@@ -8,8 +8,10 @@
 | 4x4 |     Laplace | 1.000.000 execs |  1317ms |
 | 5x5 |     Laplace |   100.000 execs |   831ms |
 | 6x6 |     Laplace |    10.000 execs |   521ms |
+\
 
-
+Compiled mit Visual Studio 15.9.2 - Debug - 32 Bit\
+\
 
 Mein Rechner:\
   Systemmodell: Dell XPS 15 9560\
