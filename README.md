@@ -1,5 +1,7 @@
 # Laplace-Entwicklungssatz
-Hier ein mal ein Laplace-Entwicklungssatz mit dazugehörigen Laufzeittests mit jeweils einer 3x3, 4x4, 5x5 und 6x6 Matrix.<p/>
+Hier ein mal ein Laplace-Entwicklungssatz mit dazugehörigen Laufzeittests mit jeweils einer 3x3, 4x4, 5x5 und 6x6 Matrix.<br/>
+<br/>
+<br/>
 
 ### Prototyping in Visual Studio mit C<br/>
 Die Laufzeiten auf meinem Rechner:<br/>
