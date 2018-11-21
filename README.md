@@ -11,7 +11,7 @@
 
 <p>
 
-Compiled mit Visual Studio 15.9.2 - Debug - 32 Bit\
+Compiled mit Visual Studio 15.9.2 - Debug - 32 Bit<br>
 <p>
 
 Mein Rechner:\
