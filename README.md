@@ -12,10 +12,24 @@
 <p>
 
 Compiled mit Visual Studio 15.9.2 - Debug - 32 Bit<br>
+<br>
+<br>
+<br>
+  
+#### Octave Anbindung via .mex-File
 <p>
+ <img src="https://github.com/JoeKL/Laplace-Entwicklungssatz/blob/master/LaPlace%20Entwicklungssatz/mex/ggue.png" height="500"> 
+<p>
+Die Laufzeit in Gegenüberstellung mit der det()-Funktion von Octave hat ergeben, dass die rekursive Laplace-Entwicklung bis 5x5 um einiges schneller ist. Bei einer Matrize von 6x6 leigen beider Algorithmen gleich auf. Ab einer Matrize größer als 6x6 ist die det()-Funktion von Octave schneller.
+<p>
+Dadurch, dass unser gegebenes Problem aber nur eine 5x5 Matrix ist, ist die Nutzung der Laplace-Entwicklung sinnvoller.
+<br>
+<br>
+<br>
+<br>
 
-Mein Rechner:\
-  Systemmodell: Dell XPS 15 9560\
-  OS: Windows 10 Home 64-Bit-Version (10.0, Build 17763)\
-  CPU: Intel Core i5 7300HQ @ 2.50GHz (4 CPUs)\
+Mein System:<br>
+  Systemmodell: Dell XPS 15 9560<br>
+  OS: Windows 10 Home 64-Bit-Version (10.0, Build 17763)<br>
+  CPU: Intel Core i5 7300HQ @ 2.50GHz (4 CPUs)<br>
   Speicher: 8192MB RAM
