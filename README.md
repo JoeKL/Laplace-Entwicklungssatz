@@ -29,8 +29,8 @@ Die Laufzeit in Gegenüberstellung mit der det()-Funktion von Octave (ROT) hat e
 Dadurch, dass unser gegebenes Problem aber nur eine 5x5 Matrix ist, ist die Nutzung der Laplace-Entwicklung sinnvoller.
 <br>
 <br>
- Der Laplace-Entwicklungssatz wird später in der Implementierung der Cramerschen Regel verwendendet:
-https://github.com/JoeKL/Cramersche-Regel
+ Der Laplace-Entwicklungssatz wird später in der Implementierung der Cramerschen Regel verwendendet:<br>
+https://github.com/JoeKL/Cramersche-Regel<br>
 <br>
 
 Mein System:<br>
